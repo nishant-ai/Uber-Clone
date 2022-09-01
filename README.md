@@ -30,7 +30,3 @@ API Resource: Google APIs
 <img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/05.png?raw=true" alt="doc-img" width="31%" height="auto" />
 <img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/04.png?raw=true" alt="doc-img" width="31%" height="auto" />
 </span>
-
-### Overview
-
-<center><img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/uber-clone.gif" alt="doc-gif" /></center>
