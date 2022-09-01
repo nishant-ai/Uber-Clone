@@ -7,6 +7,10 @@ This is a clone application of famous transport corporation. Created for learnin
 
 API Resource: Google APIs
 
+## Start the Project:
+    
+    npm install
+    npm start
 
 ## Demo
 
