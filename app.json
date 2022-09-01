@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "uber-clone",
+    "owner": "nishantsharmaa",
     "slug": "uber-clone",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +22,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "zero.uberclone",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
