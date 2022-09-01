@@ -7,8 +7,9 @@ This is a clone application of famous transport corporation. Created for learnin
 
 API Resource: Google APIs
 
-## Start the Project:
+## Run Locally:
     
+    // After Simulator Setup
     npm install
     npm start
 
