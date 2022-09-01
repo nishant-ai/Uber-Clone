@@ -21,7 +21,7 @@ API Resource: Google APIs
 ### Android
 
 <span>
-<img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/06.png?raw=true" alt="doc-img" width="33%" height="auto" />
-<img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/05.png?raw=true" alt="doc-img" width="33%" height="auto" />
-<img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/04.png?raw=true" alt="doc-img" width="33%" height="auto" />
+<img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/06.png?raw=true" alt="doc-img" width="31%" height="auto" />
+<img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/05.png?raw=true" alt="doc-img" width="31%" height="auto" />
+<img src="https://github.com/nishant-ai/Uber-Clone/blob/main/doc-assets/04.png?raw=true" alt="doc-img" width="31%" height="auto" />
 </span>
